@@ -4,7 +4,7 @@ Welcome to the Hackathon-AI-Web3-Security! This Hackathon focuses on addressing 
 
 ## Event Details
 
-- Date: July 4 2023
+- Registration's Start Date: July 4 2023
 - Time: 12:00PM UTC
 - Venue: Virtual
 - Website: https://securechain.ai/

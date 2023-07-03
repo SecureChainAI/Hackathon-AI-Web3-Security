@@ -73,7 +73,7 @@ Please note that all times mentioned are Coordinated Universal Time (UTC). Furth
 
 ## Code of Conduct
 
-The Hackathon-AI-Web3-Security upholds a strict code of conduct to ensure a safe, inclusive, and respectful environment for all participants. By participating, you agree to adhere to the code of conduct outlined in [link to code of conduct document].
+The Hackathon-AI-Web3-Security upholds a strict code of conduct to ensure a safe, inclusive, and respectful environment for all participants. By participating, you agree to adhere to the code of conduct outlined in CodeOfConduct.md
 
 ---
 

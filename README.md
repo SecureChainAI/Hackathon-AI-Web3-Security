@@ -1,31 +1,31 @@
-# Hackathon-AI-Web3-Security
+# Hackathon-AI-Web3-Security ✨
 
-Welcome to the Hackathon-AI-Web3-Security! This Hackathon focuses on addressing challenges and driving innovation in Web3 security and the adoption of blockchain and AI technologies.
+Welcome to the Hackathon-AI-Web3-Security! This Hackathon focuses on addressing challenges and driving innovation in Web3 security and the adoption of blockchain and AI technologies. 💻🔒
 
-## Event Details
+## Event Details 📅🌍
 
-- Registration's Start Date: July 4 2023
-- Time: 12:00AM UTC
+- Registration's Start Date: July 4, 2023
+- Time: 12:00 AM UTC
 - Venue: Virtual
-- Website: https://securechain.ai/
+- Website: [https://securechain.ai/](https://securechain.ai/)
 - Organizers: SecureChainAI
 
-## Topics
+## Topics 🚀
 
 Choose one of the following topics to tackle during the Hackathon:
 
-1. Decentralized Identity Management
-2. Secure Smart Contracts
-3. Privacy-Preserving Technologies
-4. Secure Decentralized Finance (DeFi)
-5. Scalability and Performance
-6. Secure Blockchain Interoperability
-7. AI for Blockchain Security
-8. Governance and Consensus Mechanisms
-9. User Experience in Web3 Applications
-10. Secure Tokenization and NFTs
+1. Decentralized Identity Management 🗝️
+2. Secure Smart Contracts 🛡️
+3. Privacy-Preserving Technologies 🔒
+4. Secure Decentralized Finance (DeFi) 💰
+5. Scalability and Performance ⚡
+6. Secure Blockchain Interoperability 🔗
+7. AI for Blockchain Security 🕵️
+8. Governance and Consensus Mechanisms 🗳️
+9. User Experience in Web3 Applications 💡
+10. Secure Tokenization and NFTs 🚫🧩
 
-## Participation Guidelines
+## Participation Guidelines 📝
 
 To participate in the Hackathon, please follow these guidelines:
 
@@ -36,7 +36,7 @@ To participate in the Hackathon, please follow these guidelines:
 5. Document your progress, code, and resources in your GitHub repository.
 6. Submit the link to your GitHub repository through the provided submission form.
 
-## Submission and Evaluation
+## Submission and Evaluation ✅
 
 To submit your project for evaluation, follow these steps:
 
@@ -45,7 +45,7 @@ To submit your project for evaluation, follow these steps:
 3. Include any relevant instructions for running and testing your project.
 4. Submit the link to your GitHub repository through the submission form before the Hackathon deadline.
 
-## Prizes
+## Prizes 🏆
 
 We are excited to offer the following prizes:
 
@@ -53,13 +53,13 @@ We are excited to offer the following prizes:
 - Second Place: [Prize details]
 - Third Place: [Prize details]
 
-Additional prizes, such as honourable mentions or special category awards, may be announced during the Hackathon.
+Additional prizes, such as honorable mentions or special category awards, may be announced during the Hackathon.
 
-## Mentors and Judges
+## Mentors and Judges 👥⚖️
 
 Experienced mentors and judges specializing in Web3 security, blockchain, and AI will be available to provide guidance and support throughout the Hackathon. They will offer assistance, answer questions, and evaluate the submitted projects.
 
-## Schedule
+## Schedule ⏰
 
 The Hackathon-AI-Web3-Security will follow the following schedule:
 
@@ -71,9 +71,9 @@ The Hackathon-AI-Web3-Security will follow the following schedule:
 
 Please note that all times mentioned are Coordinated Universal Time (UTC). Further details and updates regarding the schedule will be provided closer to the event date.
 
-## Code of Conduct
+## Code of Conduct 🤝
 
-The Hackathon-AI-Web3-Security upholds a strict code of conduct to ensure a safe, inclusive, and respectful environment for all participants. By participating, you agree to adhere to the code of conduct outlined in CodeOfConduct.md
+The Hackathon-AI-Web3-Security upholds a strict code of conduct to ensure a safe, inclusive, and respectful environment for all participants. By participating, you agree to adhere to the code of conduct outlined in [CodeOfConduct.md](CodeOfConduct.md).
 
 ---
 
@@ -81,4 +81,4 @@ We look forward to your participation and witnessing the innovative solutions yo
 
 If you have any questions or need further assistance, please reach out to the organizers at [contact email].
 
-Happy hacking!
+Happy hacking! 

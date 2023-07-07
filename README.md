@@ -1,4 +1,4 @@
-# Hackathon-AI-Web3-Security ✨
+# Hackathon - AI Web3 Security ✨
 
 Welcome to the Hackathon-AI-Web3-Security! This Hackathon focuses on addressing challenges and driving innovation in Web3 security and the adoption of blockchain and AI technologies. 💻🔒
 

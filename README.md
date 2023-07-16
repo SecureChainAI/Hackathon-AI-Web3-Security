@@ -4,7 +4,7 @@ Welcome to the Hackathon-AI-Web3-Security! This Hackathon focuses on addressing 
 
 ## Event Details 📅🌍
 
-- Registration's Start Date: July 4, 2023
+- Registration's Start Date: July 17, 2023
 - Time: 12:00 AM UTC
 - Venue: Virtual
 - Website: [https://securechain.ai/](https://securechain.ai/)
@@ -49,9 +49,9 @@ To submit your project for evaluation, follow these steps:
 
 We are excited to offer the following prizes:
 
-- First Place: [Prize details]
-- Second Place: [Prize details]
-- Third Place: [Prize details]
+- First Place: 50,000 SCAI
+- Second Place: 30,000 SCAI
+- Third Place: 20,000 SCAI
 
 Additional prizes, such as honorable mentions or special category awards, may be announced during the Hackathon.
 
@@ -63,11 +63,12 @@ Experienced mentors and judges specializing in Web3 security, blockchain, and AI
 
 The Hackathon-AI-Web3-Security will follow the following schedule:
 
-- [Date and Time]: Hackathon Kickoff and Topic Selection
-- [Date and Time]: Midway Checkpoint and Mentor Support
-- [Date and Time]: Hackathon Conclusion and Project Submission Deadline
-- [Date and Time]: Evaluation Period
-- [Date and Time]: Winners Announcement and Closing Ceremony
+- 17/07/2023: Application starts
+- 01/08/2023: Hackathon Kickoff and Topic Selection
+- 08/08/2023: Midway Checkpoint and Mentor Support
+- 22/08/2023: Hackathon Conclusion and Project Submission Deadline
+- 25/08/2023: Evaluation Period
+- 31/08/2023: Winners Announcement and Closing Ceremony
 
 Please note that all times mentioned are Coordinated Universal Time (UTC). Further details and updates regarding the schedule will be provided closer to the event date.
 

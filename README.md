@@ -1,11 +1,11 @@
-# Hackathon - AI Web3 Security ✨
+# Hackathon - AI & Web3 Security ✨
 
 Welcome to the Hackathon-AI-Web3-Security! This Hackathon focuses on addressing challenges and driving innovation in Web3 security and the adoption of blockchain and AI technologies. 💻🔒
 
 ## Event Details 📅🌍
 
-- Registration's Start Date: July 17, 2023
-- Time: 12:00 AM UTC
+- Registration's Start Date: July 18, 2023
+- Time: 12:00 PM UTC
 - Venue: Virtual
 - Website: [https://securechain.ai/hackathon.html](https://securechain.ai/hackathon.html)
 - Organizers: SecureChainAI
@@ -63,7 +63,7 @@ Experienced mentors and judges specializing in Web3 security, blockchain, and AI
 
 The Hackathon-AI-Web3-Security will follow the following schedule:
 
-- 17/07/2023: Application starts
+- 18/07/2023: Application starts
 - 01/08/2023: Hackathon Kickoff and Topic Selection
 - 08/08/2023: Midway Checkpoint and Mentor Support
 - 22/08/2023: Hackathon Conclusion and Project Submission Deadline
@@ -80,6 +80,6 @@ The Hackathon-AI-Web3-Security upholds a strict code of conduct to ensure a safe
 
 We look forward to your participation and witnessing the innovative solutions you create during the Hackathon-AI-Web3-Security. Let's push the boundaries of Web3 security and drive the adoption of blockchain and AI technologies!
 
-If you have any questions or need further assistance, please reach out to the organizers at [contact email].
+If you have any questions or need further assistance, please reach out to the organizers at contact@securechain.ai or connect with other members at: [https://t.me/SecureChainAI/34090](https://t.me/SecureChainAI/34090)
 
 Happy hacking! 
